@@ -19,4 +19,6 @@ import { HomeComponent } from "./home/home.component";
 })
 export class AppComponentLJH {
   title = "homes";
+  anotherTitle = "anotherhomes";
+  yetanothertitle = "yetanothertitle";
 }

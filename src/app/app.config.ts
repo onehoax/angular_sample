@@ -10,4 +10,6 @@ import { ApplicationConfig } from "@angular/core";
 
 export const appConfig: ApplicationConfig = {
   providers: [],
+
+  console.log("hello there");
 };
